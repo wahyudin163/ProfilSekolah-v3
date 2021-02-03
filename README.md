@@ -27,6 +27,9 @@ Cekidot Clonning aja.... hehehehe
 ![gambar7](https://user-images.githubusercontent.com/77037339/106735756-356d5180-6647-11eb-9034-845e54234c8f.png)
 
 4. Ketik CardView pada kolom
+```terminal
+cardview
+```
 
 ![gambar8](https://user-images.githubusercontent.com/77037339/106735897-5df54b80-6647-11eb-88cf-fcef8a662023.png)
 

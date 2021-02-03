@@ -1,5 +1,7 @@
 > **Catatan: **
->harus selalu semangat
+
+> Ingat !!!
+> Harus selalu semangat dalam mencari ilmu
 
 # ProfilSekolah-v2
 Didalam v2 ini saya menambahkan fitur CardView yang bisa kalian pakai untuk membuat efek melengkung di menu.

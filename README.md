@@ -3,6 +3,8 @@
 > Ingat !!!
 > Harus selalu semangat dalam mencari ilmu
 
+Daftar Video menarik bisa kamu akses di sini: [https://www.youtube.com/watch?v=GfN6U24Jcw0](https://git-scm.com/docs).   
+
 # ProfilSekolah-v3
 Didalam v2 ini saya menambahkan fitur Intent perpindahan halaman
 

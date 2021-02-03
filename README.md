@@ -4,7 +4,8 @@ Didalam v2 ini saya menambahkan fitur CardView yang bisa kalian pakai untuk memb
 Cekidot Clonning aja.... hehehehe
 
 
-![Cardview](https://user-images.githubusercontent.com/77037339/106736814-83cf2000-6648-11eb-8ea3-716a66a5e03d.png)
+![collapse](https://user-images.githubusercontent.com/77037339/106771681-d1ac4e00-6671-11eb-90d3-08f9aa6454fc.png)
+
 
 
 # Cara Install fitur Cardview

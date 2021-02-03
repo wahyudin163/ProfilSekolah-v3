@@ -1,6 +1,8 @@
 # ProfilSekolah-v2
 Didalam v2 ini saya menambahkan fitur CardView yang bisa kalian pakai untuk membuat efek melengkung di menu.
 Cekidot Clonning aja.... hehehehe
+![Cardview](https://user-images.githubusercontent.com/77037339/106736814-83cf2000-6648-11eb-8ea3-716a66a5e03d.png)
+
 
 # Cara Install fitur Cardview
 1. Klik menu Project structure 

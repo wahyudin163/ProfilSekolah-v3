@@ -50,3 +50,9 @@ cardview
 8. Tambahkan perintah CardView pada menu (pda kesempatan ini kita pakai gambar)
 
 ![gambar12](https://user-images.githubusercontent.com/77037339/106736245-cb08e100-6647-11eb-9848-7f82a558a240.png)
+
+
+Inilah saya
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wahyudin.)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deswa.info@gmail.com)

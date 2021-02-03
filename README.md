@@ -1,6 +1,6 @@
 > **Catatan:**  
 > Ingat !!!.  
-> Harus selalu semangat dalam mencari ilmu.
+> Harus selalu semangat dalam mencari ilmu. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 Daftar Video menarik bisa kamu akses di sini: [https://www.youtube.com/watch?v=GfN6U24Jcw0](https://git-scm.com/docs).   
 <p align="center">

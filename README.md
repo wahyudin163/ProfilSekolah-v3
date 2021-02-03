@@ -3,6 +3,9 @@
 > Harus selalu semangat dalam mencari ilmu.
 
 Daftar Video menarik bisa kamu akses di sini: [https://www.youtube.com/watch?v=GfN6U24Jcw0](https://git-scm.com/docs).   
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
 # ProfilSekolah-v3
 Didalam v3 ini saya menambahkan fitur Intent perpindahan halaman
